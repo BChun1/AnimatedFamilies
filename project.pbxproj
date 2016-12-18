@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BB2C706F1E0363A50052E5D8 /* images in Resources */ = {isa = PBXBuildFile; fileRef = BB2C706E1E0363A50052E5D8 /* images */; };
 		BB3B06211E023C500001807B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3B06201E023C500001807B /* AppDelegate.swift */; };
 		BB3B06231E023C500001807B /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3B06221E023C500001807B /* TableViewController.swift */; };
 		BB3B06261E023C500001807B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB3B06241E023C500001807B /* Main.storyboard */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BB2C706E1E0363A50052E5D8 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		BB3B061D1E023C500001807B /* AnimatedFamilies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatedFamilies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB3B06201E023C500001807B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BB3B06221E023C500001807B /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 				BB3B06271E023C500001807B /* Assets.xcassets */,
 				BB3B06291E023C500001807B /* LaunchScreen.storyboard */,
 				BB3B062C1E023C500001807B /* Info.plist */,
-				BB2C706E1E0363A50052E5D8 /* images */,
 			);
 			path = AnimatedFamilies;
 			sourceTree = "<group>";
@@ -129,7 +126,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB2C706F1E0363A50052E5D8 /* images in Resources */,
 				BB3B062B1E023C500001807B /* LaunchScreen.storyboard in Resources */,
 				BB3B06281E023C500001807B /* Assets.xcassets in Resources */,
 				BB3B06261E023C500001807B /* Main.storyboard in Resources */,
